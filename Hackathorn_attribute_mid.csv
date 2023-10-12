@@ -1,0 +1,76 @@
+AccountReference,Farm,Farm_Name,Field_ID,Field_Name,Contour_ID,Crop_Type,LY_Crop_Type_MAP,DrillingDate,Soil_Type,Variety,Field Ha,Total Yield,ProductName,Applied date,Quantity kg,kg CO2/kg fert,kg CO2/application,Field fert total kg CO2,Fert kg CO2/t grain
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,31,Moonlight,520,Barley Winter,Spring Wheat,09/10/2021,Shallow Chalk,SY Thunderbolt,25,241,Nitram,03/05/2022,3507.31,1.25,4384,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,31,Moonlight,520,Barley Winter,Spring Wheat,09/10/2021,Shallow Chalk,SY Thunderbolt,25,241,MOP 60%,13/04/2022,3218.72,0.28,901,5285,21.93
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,51,Mercylands,521,Barley Spring,Winter Wheat,26/03/2022,Medium Chalk,Laureate,20,169,18-46-00 Di Ammonium Phosphate,26/03/2022,1939.39,0.6981,1354,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,51,Mercylands,521,Barley Spring,Winter Wheat,26/03/2022,Medium Chalk,Laureate,20,169,Liquid 30N,02/05/2022,4550,1.06,4823,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,51,Mercylands,521,Barley Spring,Winter Wheat,26/03/2022,Medium Chalk,Laureate,20,169,MOP 60%,19/04/2022,975.37,0.28,273,6450,38.17
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,42,Trenches 05,522,Wheat Winter,Winter Oilseed Rape,24/10/2021,Medium Chalk,Graham,33,332.64,Liquid 30N,15/05/2022,6440,1.06,6826,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,42,Trenches 05,522,Wheat Winter,Winter Oilseed Rape,24/10/2021,Medium Chalk,Graham,33,332.64,MOP 60%,13/04/2022,5559.61,0.28,1557,8383,25.2
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,30,Long Lane 14,523,Barley Winter,Winter Wheat,09/10/2021,Medium Chalk,SY Thunderbolt,7,62.79,Nitram,03/05/2022,982.05,1.25,1228,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,30,Long Lane 14,523,Barley Winter,Winter Wheat,09/10/2021,Medium Chalk,SY Thunderbolt,7,62.79,MOP 60%,13/04/2022,1273.93,0.28,357,1584,25.23
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,40,Leighs Meadow 14,524,Wheat Winter,Winter Oilseed Rape,18/10/2021,Medium Chalk,Graham,20.5,220.785,Nitram,12/05/2022,3931.95,1.25,4915,4915,22.26
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase Grassland,35,Woodsend.,525,Wheat Winter,NULL,15/10/2021,Medium Chalk,Graham,10.5,117.915,Nitram,12/05/2022,1769.38,1.25,2212,2212,18.76
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,19,Neates Field 2016,527,Rape Winter,Winter Barley,14/08/2021,Medium Chalk,Acacia,14,51.8,18-46-00 Di Ammonium Phosphate,14/08/2021,1773.76,0.6981,1238,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,19,Neates Field 2016,527,Rape Winter,Winter Barley,14/08/2021,Medium Chalk,Acacia,14,51.8,Ammonium Sulphate,26/02/2022,1750,0.6,1050,2288,44.17
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase Grassland,34,Kinghams,528,Wheat Winter,NULL,15/10/2021,Medium Chalk,Graham,6.5,75.53,Nitram,12/05/2022,1150.09,1.25,1438,1438,19.03
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,36,18th September,529,Wheat Winter,Winter Oilseed Rape,16/10/2021,Shallow Chalk,Graham,14.5,153.555,Nitram,12/05/2022,2850.66,1.25,3563,3563,23.21
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,33,The Chase.,530,Wheat Winter,Spring Beans,12/10/2021,Medium Chalk,KWS Extase,20,223.2,Nitram,12/05/2022,3538.75,1.25,4423,4423,19.82
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,20,Gaunt Field,531,Rape Winter,Winter Barley,16/08/2021,Medium Chalk,Acacia,24,93.84,18-46-00 Di Ammonium Phosphate,16/08/2021,3040.72,0.6981,2123,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,20,Gaunt Field,531,Rape Winter,Winter Barley,16/08/2021,Medium Chalk,Acacia,24,93.84,Ammonium Sulphate,26/02/2022,3000,0.6,1800,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,20,Gaunt Field,531,Rape Winter,Winter Barley,16/08/2021,Medium Chalk,Acacia,24,93.84,MOP 60%,25/03/2022,1091.94,0.28,306,4228,45.06
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,52,Bomfords.,532,Beans Dried Spring,Spring Barley,29/03/2022,Medium Chalk,Yukon,14,65.66,MOP 60%,19/04/2022,636.97,0.28,178,178,2.71
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,44,Hillwood-,535,Wheat Winter,NULL,26/10/2021,Medium Chalk,KWS Extase,13,111.8,Nitram,10/05/2022,2373.91,1.25,2967,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,44,Hillwood-,535,Wheat Winter,NULL,26/10/2021,Medium Chalk,KWS Extase,13,111.8,MOP 60%,13/04/2022,1455.92,0.28,408,3375,30.19
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,46,Baskervilles,536,Barley Spring,Spring Barley,22/03/2022,Medium Chalk,Laureate,11,71.84,18-46-00 Di Ammonium Phosphate,22/03/2022,1066.67,0.6981,745,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,46,Baskervilles,536,Barley Spring,Spring Barley,22/03/2022,Medium Chalk,Laureate,11,71.84,Liquid 30N,02/05/2022,2486,1.06,2635,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,46,Baskervilles,536,Barley Spring,Spring Barley,22/03/2022,Medium Chalk,Laureate,11,71.84,MOP 60%,19/04/2022,545.97,0.28,153,3533,49.17
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,21,Hangmans Hill,537,Rape Winter,Spring Barley,18/08/2021,Shallow Chalk,Acacia,13,55.77,18-46-00 Di Ammonium Phosphate,18/08/2021,1647.06,0.6981,1150,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,21,Hangmans Hill,537,Rape Winter,Spring Barley,18/08/2021,Shallow Chalk,Acacia,13,55.77,Ammonium Sulphate,26/02/2022,1625,0.6,975,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,21,Hangmans Hill,537,Rape Winter,Spring Barley,18/08/2021,Shallow Chalk,Acacia,13,55.77,MOP 60%,25/03/2022,1546.92,0.28,433,2558,45.87
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,48,Hill Bottom,538,Barley Spring,Winter Wheat,22/03/2022,Medium Chalk,Laureate,13,104.91,18-46-00 Di Ammonium Phosphate,22/03/2022,1260.61,0.6981,880,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,48,Hill Bottom,538,Barley Spring,Winter Wheat,22/03/2022,Medium Chalk,Laureate,13,104.91,Liquid 30N,02/05/2022,2922,1.06,3097,3977,37.91
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,37,Hilltop.,539,Wheat Winter,Winter Wheat,16/10/2021,Medium Chalk,Skyfall,16,161.28,Liquid 30N,02/05/2022,2409,1.06,2554,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,37,Hilltop.,539,Wheat Winter,Winter Wheat,16/10/2021,Medium Chalk,Skyfall,16,161.28,Nitram,18/05/2022,3000,1.25,3750,6304,39.08
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,39,Georges Field,541,Wheat Winter,Spring Beans,17/10/2021,Shallow Chalk,Skyfall,30,339,Liquid 30N,02/05/2022,4440,1.06,4706,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,39,Georges Field,541,Wheat Winter,Spring Beans,17/10/2021,Shallow Chalk,Skyfall,30,339,Nitram,18/05/2022,5400,1.25,6750,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,39,Georges Field,541,Wheat Winter,Spring Beans,17/10/2021,Shallow Chalk,Skyfall,30,339,MOP 60%,13/04/2022,727.96,0.28,204,11660,34.4
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,49,Jones Field,542,Barley Spring,Winter Wheat,24/03/2022,Shallow Chalk,Laureate,25,205.75,18-46-00 Di Ammonium Phosphate,24/03/2022,3781.82,0.6981,2640,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,49,Jones Field,542,Barley Spring,Winter Wheat,24/03/2022,Shallow Chalk,Laureate,25,205.75,Liquid 30N,02/05/2022,5400,1.06,5724,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,49,Jones Field,542,Barley Spring,Winter Wheat,24/03/2022,Shallow Chalk,Laureate,25,205.75,MOP 60%,19/04/2022,3548.82,0.28,994,9358,45.48
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,22,Rooksbury-,543,Rape Winter,Winter Barley,20/08/2021,Shallow Chalk,Aurelia,11,44.99,18-46-00 Di Ammonium Phosphate,20/08/2021,1174.83,0.6981,820,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,22,Rooksbury-,543,Rape Winter,Winter Barley,20/08/2021,Shallow Chalk,Aurelia,11,44.99,Ammonium Sulphate,26/02/2022,1375,0.6,825,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,22,Rooksbury-,543,Rape Winter,Winter Barley,20/08/2021,Shallow Chalk,Aurelia,11,44.99,MOP 60%,25/03/2022,682.76,0.28,191,1836,40.82
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,18,Church Field,544,Rape Winter,Winter Barley,13/08/2021,Shallow Chalk,Aurelia,31,105.71,18-46-00 Di Ammonium Phosphate,13/08/2021,3524.48,0.6981,2460,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,18,Church Field,544,Rape Winter,Winter Barley,13/08/2021,Shallow Chalk,Aurelia,31,105.71,Ammonium Sulphate,26/02/2022,3875,0.6,2325,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,18,Church Field,544,Rape Winter,Winter Barley,13/08/2021,Shallow Chalk,Aurelia,31,105.71,MOP 60%,25/03/2022,3457.82,0.28,968,5754,54.43
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,45,Hills,545,Wheat Winter,Winter Wheat,28/10/2021,Medium Chalk,KWS Extase,17,186.83,Nitram,10/05/2022,3104.35,1.25,3880,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,45,Hills,545,Wheat Winter,Winter Wheat,28/10/2021,Medium Chalk,KWS Extase,17,186.83,MOP 60%,13/04/2022,1455.92,0.28,408,4288,22.95
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,29,Mildenhalls,546,Barley Winter,Winter Wheat,08/10/2021,Shallow Chalk,Belfry,23,207,Ammonium Sulphate,05/03/2022,1700,0.6,1020,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,29,Mildenhalls,546,Barley Winter,Winter Wheat,08/10/2021,Shallow Chalk,Belfry,23,207,Nitram,18/03/2022,4800,1.25,6000,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,29,Mildenhalls,546,Barley Winter,Winter Wheat,08/10/2021,Shallow Chalk,Belfry,23,207,MOP 60%,13/04/2022,3608.87,0.28,1010,8030,38.79
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,27,27 Acres 16,3776,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,11,91.52,Ammonium Sulphate,05/03/2022,800,0.6,480,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,27,27 Acres 16,3776,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,11,91.52,Nitram,03/05/2022,1102.3,1.25,1378,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,27,27 Acres 16,3776,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,11,91.52,Nitram,14/03/2022,2376,1.25,2970,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,27,27 Acres 16,3776,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,11,91.52,MOP 60%,13/04/2022,1455.92,0.28,408,5236,57.21
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,38 Acres.,3777,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,14,121.1,Ammonium Sulphate,05/03/2022,1100,0.6,660,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,38 Acres.,3777,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,14,121.1,Nitram,03/05/2022,1402.92,1.25,1754,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,38 Acres.,3777,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,14,121.1,Nitram,14/03/2022,3024,1.25,3780,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,38 Acres.,3777,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,SY Kingsbarn,14,121.1,MOP 60%,13/04/2022,1091.94,0.28,306,6499,53.67
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,47,Miss Gentry,3780,Barley Spring,Spring Barley,22/03/2022,Shallow Chalk,Laureate,12,92.28,18-46-00 Di Ammonium Phosphate,22/03/2022,1163.64,0.6981,812,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,47,Miss Gentry,3780,Barley Spring,Spring Barley,22/03/2022,Shallow Chalk,Laureate,12,92.28,Liquid 30N,02/05/2022,2679,1.06,2840,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,47,Miss Gentry,3780,Barley Spring,Spring Barley,22/03/2022,Shallow Chalk,Laureate,12,92.28,MOP 60%,19/04/2022,1658.13,0.28,464,4116,44.61
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,16,Lower Barn-,3781,Rape Winter,Winter Barley,11/08/2021,Medium Chalk,Aurelia,9.5,29.64,18-46-00 Di Ammonium Phosphate,11/08/2021,1174.83,0.6981,820,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,16,Lower Barn-,3781,Rape Winter,Winter Barley,11/08/2021,Medium Chalk,Aurelia,9.5,29.64,Ammonium Sulphate,26/02/2022,1187.5,0.6,713,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,16,Lower Barn-,3781,Rape Winter,Winter Barley,11/08/2021,Medium Chalk,Aurelia,9.5,29.64,MOP 60%,05/04/2022,909.95,0.28,255,1787,60.3
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,50,Miss Taylor,3782,Barley Spring,Winter Wheat,25/03/2022,Shallow Chalk,Laureate,4,28.1106,18-46-00 Di Ammonium Phosphate,25/03/2022,387.88,0.6981,271,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,50,Miss Taylor,3782,Barley Spring,Winter Wheat,25/03/2022,Shallow Chalk,Laureate,4,28.1106,Liquid 30N,02/05/2022,989,1.06,1048,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,50,Miss Taylor,3782,Barley Spring,Winter Wheat,25/03/2022,Shallow Chalk,Laureate,4,28.1106,MOP 60%,19/04/2022,682.76,0.28,191,1510,53.73
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,17,The Down-,3783,Rape Winter,Winter Barley,11/08/2021,Shallow Chalk,Aurelia,17.5,63,Ammonium Sulphate,26/02/2022,2187.5,0.6,1313,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,17,The Down-,3783,Rape Winter,Winter Barley,11/08/2021,Shallow Chalk,Aurelia,17.5,63,Poultry Manure,29/07/2021,100,,,1313,20.83
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,26,Mildenhall Bank,27876,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,Belfry,8,75.36,Nitram,03/05/2022,641.34,1.25,802,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,26,Mildenhall Bank,27876,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,Belfry,8,75.36,MOP 60%,13/04/2022,1267.98,0.28,355,1157,15.35
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,38,Stapletons 15,44879,Wheat Winter,Spring Barley,17/10/2021,Medium Chalk,KWS Extase,12,136.08,Nitram,12/05/2022,2359.17,1.25,2949,2949,21.67
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,The Hook 15,44880,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,Belfry,14,118.72,Nitram,03/05/2022,1964.09,1.25,2455,,
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,28,The Hook 15,44880,Barley Winter,Winter Wheat,08/10/2021,Medium Chalk,Belfry,14,118.72,MOP 60%,13/04/2022,1365.52,0.28,382,2837,23.9
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,24,News Field,300349,Wheat Winter,Spring Beans,27/09/2021,Medium Chalk,KWS Extase,9,96.66,Nitram,10/05/2022,1460.87,1.25,1826,1826,18.89
+LAWT0005|CHAS0002|KING0033|KING0034,1,Aldbourne Chase,23,Masons,300350,Wheat Winter,Spring Beans,27/09/2021,Medium Chalk,KWS Extase,2,19.94,Nitram,10/05/2022,365.22,1.25,457,457,22.89
